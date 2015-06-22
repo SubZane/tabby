@@ -1,0 +1,30 @@
+{
+  "name": "Enhanched Bootstrap Tabs",
+  "version": "0.1.0",
+  "homepage": "http://www.andreasnorman.com/bootstrap.enhanchedtabs/",
+  "authors": [
+    "Andreas Norman <an@andreasnorman.se>"
+  ],
+  "description": "Adding ajax and history support to Bootstraps standard tab navigation.",
+  "main": "dist/jquery.bootstrap.enhanchedtabs.js",
+  "keywords": [
+    "bootstrap",
+    "navbar",
+    "ajax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "demo/dependencies",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.x"
+  },
+  "resolutions": {
+    "jquery": "2.x"
+  }
+}

@@ -1,0 +1,25 @@
+{
+	"name": "bootstrap.enhanchedtabs",
+	"title": "Enhanched Bootstrap Tabs",
+	"description": "Adding ajax and history support to Bootstraps standard tab navigation.",
+	"version": "0.1.0",
+	"homepage": "https://github.com/SubZane/bootstrap.enhanchedtabs",
+	"author": {
+		"name": "Andreas Norman",
+		"email": "an@andreasnorman.se",
+		"url": "http://www.andreasnorman.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SubZane/bootstrap.enhanchedtabs.git"
+	},
+	"bugs": "https://github.com/SubZane/bootstrap.enhanchedtabs/issues",
+	"licenses": [{
+		"type": "MIT",
+		"url": "https://github.com/SubZane/bootstrap.enhanchedtabs/blob/master/LICENSE-MIT"
+	}],
+	"dependencies": {
+		"jquery": "*"
+	},
+	"keywords": []
+}
