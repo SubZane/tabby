@@ -1,11 +1,11 @@
 {
   "name": "tabbyjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "http://www.andreasnorman.com/tabbyjs/",
   "authors": [
     "Andreas Norman <an@andreasnorman.se>"
   ],
-  "description": "Tabby.js is a tiny (1.4kb) tab menu script with support for AJAX loading of content and history navigation.",
+  "description": "Tabby.js is a tiny (1.1kb) tab menu script with support for AJAX loading of content and history navigation.",
   "main": "dist/jquery.tabby.min.js",
   "keywords": [
     "bootstrap",

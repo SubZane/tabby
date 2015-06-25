@@ -1,6 +1,6 @@
-Tabby.js 0.1.0
+Tabby.js 0.1.1
 ==================
-Tabby.js is a tiny (1.4kb) tab menu script with support for AJAX loading of content and history navigation. It will also take advantage of hashed URLs, meaning: If you click one tab, then another and use the back button the previous tab will be selected. It takes advantage of Bootstrap markup and can very easily replace the normal Bootstrap javascript tabs.
+Tabby.js is a tiny (1.1kb) tab menu script with support for AJAX loading of content and history navigation. It will also take advantage of hashed URLs, meaning: If you click one tab, then another and use the back button the previous tab will be selected. It takes advantage of Bootstrap markup and can very easily replace the normal Bootstrap javascript tabs.
 
 <div style="text-align:center">
 <img src="https://github.com/SubZane/tabby/raw/master/demo/img/logo.png" alt="tabby.js"/>

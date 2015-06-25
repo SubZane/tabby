@@ -2,7 +2,7 @@
 	"name": "tabby",
 	"title": "Tabby.js is a tiny tab menu script with support for AJAX loading of content and history navigation.",
 	"description": "Adding ajax and history support to Bootstraps standard tab navigation.",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"homepage": "https://github.com/SubZane/tabby",
 	"author": {
 		"name": "Andreas Norman",
