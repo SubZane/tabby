@@ -1,3 +1,6 @@
+/*! Tabby.js is a tiny tab menu script with support for AJAX loading of content and history navigation. - v0.1.0 - 2015-06-25
+* https://github.com/SubZane/tabby
+* Copyright (c) 2015 Andreas Norman; Licensed MIT */
 var enhanchedtabs = {
 	init: function () {
 		var hash = window.location.hash;
@@ -7,7 +10,7 @@ var enhanchedtabs = {
 			enhanchedtabs.hashChange(hash);
 		}
 
-		$('[data-enhanchedtoggle]').on('click', '', function (e) {
+		$('[data-tabbytoggle]').on('click', '', function (e) {
 			e.preventDefault();
 			var tabId = $(this).attr('href');
 
@@ -32,8 +35,8 @@ var enhanchedtabs = {
 
 	hashChange: function(hash) {
 		//console.log('hashChange: ' + hash);
-		$('[data-enhanchedtoggle][href="'+hash+'"]').parent().parent().find('li').removeClass('active');
-		$('[data-enhanchedtoggle][href="'+hash+'"]').parent().addClass('active');
+		$('[data-tabbytoggle][href="'+hash+'"]').parent().parent().find('li').removeClass('active');
+		$('[data-tabbytoggle][href="'+hash+'"]').parent().addClass('active');
 		enhanchedtabs.openTab(hash);
 	},
 

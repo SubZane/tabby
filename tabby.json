@@ -1,9 +1,9 @@
 {
-	"name": "bootstrap.enhanchedtabs",
-	"title": "Enhanched Bootstrap Tabs",
+	"name": "tabby",
+	"title": "Tabby.js is a tiny tab menu script with support for AJAX loading of content and history navigation.",
 	"description": "Adding ajax and history support to Bootstraps standard tab navigation.",
 	"version": "0.1.0",
-	"homepage": "https://github.com/SubZane/bootstrap.enhanchedtabs",
+	"homepage": "https://github.com/SubZane/tabby",
 	"author": {
 		"name": "Andreas Norman",
 		"email": "an@andreasnorman.se",
@@ -11,12 +11,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/SubZane/bootstrap.enhanchedtabs.git"
+		"url": "https://github.com/SubZane/tabby.git"
 	},
-	"bugs": "https://github.com/SubZane/bootstrap.enhanchedtabs/issues",
+	"bugs": "https://github.com/SubZane/tabby/issues",
 	"licenses": [{
 		"type": "MIT",
-		"url": "https://github.com/SubZane/bootstrap.enhanchedtabs/blob/master/LICENSE-MIT"
+		"url": "https://github.com/SubZane/tabby/blob/master/LICENSE-MIT"
 	}],
 	"dependencies": {
 		"jquery": "*"

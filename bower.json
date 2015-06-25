@@ -1,12 +1,12 @@
 {
-  "name": "Enhanched Bootstrap Tabs",
+  "name": "tabbyjs",
   "version": "0.1.0",
-  "homepage": "http://www.andreasnorman.com/bootstrap.enhanchedtabs/",
+  "homepage": "http://www.andreasnorman.com/tabbyjs/",
   "authors": [
     "Andreas Norman <an@andreasnorman.se>"
   ],
-  "description": "Adding ajax and history support to Bootstraps standard tab navigation.",
-  "main": "dist/jquery.bootstrap.enhanchedtabs.js",
+  "description": "Tabby.js is a tiny (1.4kb) tab menu script with support for AJAX loading of content and history navigation.",
+  "main": "dist/jquery.tabby.min.js",
   "keywords": [
     "bootstrap",
     "navbar",
